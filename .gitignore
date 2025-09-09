@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go
+bin/
+vendor/
+
+# Kubernetes
+*.yaml
+*.yml
+.kube/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
